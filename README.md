@@ -6,7 +6,7 @@
 ![code_grade](https://www.code-inspector.com/project/27812/status/svg)
 
 
-phone-book
+phone-book:
 An application to implement phone-book in C
 
 Features of phonebook :
