@@ -11,7 +11,7 @@ Display Contacts
 
 Modify Contact
 
-Delete Contact
+Delete Contact 
 
 
 
