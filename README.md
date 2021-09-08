@@ -16,3 +16,7 @@ Delete Contact
 
 
 https://www.code-inspector.com/project/27812/score/svg
+
+
+
+https://www.code-inspector.com/project/27812/status/svg
